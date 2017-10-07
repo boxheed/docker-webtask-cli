@@ -1,4 +1,4 @@
-FROM library/node
+FROM library/node:latest
 
 RUN npm i -g wt-cli
 
